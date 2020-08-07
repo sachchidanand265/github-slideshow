@@ -3,4 +3,4 @@ layout: slide
 title: "Welcome to our second slide"
 .....
 Your text
-Click right arrow to go to next page.
+Use the left arrow to go back!
